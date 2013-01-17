@@ -11,9 +11,9 @@ Just fool around, try to get acquainted with GitHub and Git.
 
 ---
 
-Alright guys.  Here's the deal.  If you haven't used Git or GitHub before, this will aid in your learning process.  
+Alright guys.  Here's the deal.  If you haven't used Git or GitHub before, this will aid in your learning process.
 
-First things first, read the [help pages](https://help.github.com/) (whichever relevent).  
+First things first, read the [help pages](https://help.github.com/) (whichever relevent).
 
 The basic workflow will (probably) be as follows:
 * For the repo
@@ -23,6 +23,4 @@ The basic workflow will (probably) be as follows:
 
 Good luck, have fun!
 
----
-
-Silly `Ron`, forking my repo.
+illy `Ron`, forking my repo.
