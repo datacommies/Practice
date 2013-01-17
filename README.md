@@ -22,5 +22,3 @@ The basic workflow will (probably) be as follows:
 * I will review the pull request, and merge the forks if approved
 
 Good luck, have fun!
-
-illy `Ron`, forking my repo.
